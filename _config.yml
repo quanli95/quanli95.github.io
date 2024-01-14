@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Quan Li's Website"
+title                    : "Quan Li's Homepage"
 title_separator          : "-"
 name                     : &name "Quan Li's Personal Website"
 description              : &description "This is Quan's personal website. Welcome~"
