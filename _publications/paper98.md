@@ -1,0 +1,1 @@
+[PAKDD 2023] "Hierarchical Graph Neural Network for Patient Treatment Preference Prediction with External Knowledge" [paper](https://link.springer.com/chapter/10.1007/978-3-031-33380-4_16)

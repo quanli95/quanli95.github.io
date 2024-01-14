@@ -1,0 +1,1 @@
+[ICDM 2023] "Pseudo-Labeling with Graph Active Learning for Few-shot Node Classification" [paper](https://faculty.ist.psu.edu/wu/papers/Pseudo-Labeling-ICDM2023.pdf)

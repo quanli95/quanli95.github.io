@@ -1,0 +1,1 @@
+[WWW 2023] "Knowledge Distillation on Cross-Modal Adversarial Reprogramming for Data-Limited Attribute Inference" [paper](https://dl.acm.org/doi/abs/10.1145/3543873.3587313)
