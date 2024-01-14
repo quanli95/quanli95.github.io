@@ -16,7 +16,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: "https://quanli95.github.io/files/Quan_CV_2024.pdf"
+    url: /files/Quan_CV_2024.pdf
     
   # - title: "Guide"
   #   url: /markdown/
