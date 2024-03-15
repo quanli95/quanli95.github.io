@@ -14,7 +14,7 @@ I am a 4th year Ph.D student at Information Sciences and Technology (IST) depart
 
 NEWS
 ======
-* [Mar. 2024] Our paper has been accepted by DASFAA and IJCNN!
+* [Mar. 2024] Our papers were accepted by DASFAA and IJCNN!
 * [Nov. 2023] I passed my comprehensive exam
 * [Sept. 2023] Our paper was accepted by ICDM
 
